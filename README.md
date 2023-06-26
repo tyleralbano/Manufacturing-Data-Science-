@@ -2,7 +2,7 @@
 
 👋 Hi there
 
-I'm Tyler, an Engineer based in Boston. I have developped a passion for using Data Science and Python programming to optimiize operations in Manufacturing, Healthcare, and wellness domain spaces. 
+I'm Tyler, an Engineer based in Boston. I have developed a passion for using Data Science and Python programming to optimize operations in Manufacturing, Healthcare, and wellness domain spaces. 
 
 🖥️ I've shared my insights about
 
