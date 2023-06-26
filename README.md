@@ -4,6 +4,7 @@
 
 I'm Tyler, an Engineer based in Boston. I have developed a passion for using Data Science and Python programming to optimize operations in Manufacturing, Healthcare, and wellness domain spaces. 
 
+Happy to connect on Linkedin: https://www.linkedin.com/in/tyler-albano23/
 🖥️ I've shared my insights about
 
 Predictive Maintenance
